@@ -1,7 +1,10 @@
-*~
-.DS_Store
 
+### Example user template template
+### Example user template
+
+# IntelliJ project files
 .idea
-
+*.iml
 node_modules
-dist
+out
+gen
